@@ -5,7 +5,7 @@ A bode plot generator to study a system's frequency response. A bode plot is a g
 
 ## Installing Dependencies
 #### OS X
-```
+```bash
 $ brew install python       # installs pip and setuptools
 $ brew install pyqt         # for gui
 $ pip install matplotlib
