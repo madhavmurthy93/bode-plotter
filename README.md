@@ -12,3 +12,6 @@ $ pip install matplotlib
 $ pip install numpy
 $ python bode_plotter_sliders.py
 ```
+
+## Example
+![alt tag](https://raw.githubusercontent.com/madhavmurthy93/bode-plotter/master/images/screenshot.png)
